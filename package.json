@@ -1,6 +1,8 @@
 {
-  "name": "bun-react-template",
+  "name": "yu-gi-oh-dueling-simulator",
   "version": "0.1.0",
+  "description": "Yu-Gi-Oh! Power of Chaos web dueling simulator built with Bun, React, TypeScript, and Tailwind CSS.",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
